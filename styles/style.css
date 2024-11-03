@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@600&display=swap');
+:root {
+    --cor-primaria: #252630;
+    --cor-secundaria: #ffffff;
+    --cor-terciaria: #00c3d1;
+    --cor-hover: #161616;
+    --cor-rodape: #000000;
+    --fonte-primaria: "Krona One", sans-serif;
+    --fonte-secundaria:"Montserrat", sans-serif;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    box-sizing: border-box;
+    background-color:var(--cor-primaria);
+    color:var(--cor-secundaria);
+}
+.titulodes {
+    color:var(--cor-terciaria);
+}
+.textodesp1 {
+    color:var(--cor-secundaria);
+}
+.apresentacao {
+padding: 3% 13%;
+display:flex;
+align-items: center;
+justify-content: space-between;
+}
+.aprconteudo {
+    display:flex;
+    flex-direction: column;
+    width: 615px;
+    gap: 20px;
+}
+.att {
+   font-size: 36px;
+   text-align: center;
+   font-family:var(--fonte-primaria);  
+}
+.app {
+    font-size: 24px;
+    text-align: center;
+    font-family:var(--fonte-secundaria);
+}
+div {
+    gap: 28px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.botao {
+    display: flex;
+    justify-content: center;
+    gap: 7px;
+    color:var(--cor-secundaria);
+    font-family:var(--fonte-secundaria);
+    font-size: 12px;
+    transition: all 0.3s;
+    font-weight: 600px;
+    border-radius: 10px;
+    border: 2px solid var(--cor-terciaria);
+    width: 200px;
+    text-align: center;
+    padding: 10px 0px 10px;
+    text-decoration: none;
+}
+.botao:hover {
+    background-color:var(--cor-hover);
+    padding: 1.8%;
+    width: 30%;
+    height: 35%;
+}
+.h2 {
+    font-size: 24px;
+    text-align: center;
+    font-family:var(--fonte-primaria);
+    font-weight: 400px;
+}
+.rodape {
+    color:var(--cor-rodape);
+    background-color:var(--cor-terciaria);
+    padding: 14px;
+    text-align: center;
+    font-family:var(--fonte-secundaria);
+    font-size: 18px;
+    font-weight: 400px;
+}
+.cabecalio {
+    padding: 1% 0% 0% 9%
+}
+.cabnave {
+    display: flex;
+    gap: 30px;
+}
+.cabecalio__link {
+    font-family:var(--fonte-secundaria);
+    font-size: 18px;
+    font-weight: 600;
+    transition: all 0.5s;
+    color: var(--cor-terciaria);
+    text-decoration: none;
+}
+.appabout {
+    font-size: 20px;
+    text-align: center;
+    font-family:var(--fonte-secundaria);
+}
+.attabout {
+    font-size: 28px;
+    text-align: center;
+    font-family:var(--fonte-primaria);
+}
+.apresentacaoa {
+    padding: 3% 12%;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.lista {
+    font-size: 25px;
+    list-style: none;
+    text-align: center;
+}
+.cabecalio__link:hover {
+    color:var(--cor-secundaria);
+}
