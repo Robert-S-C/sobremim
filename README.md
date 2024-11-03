@@ -1,4 +1,4 @@
-Página feita em html e css ME apresentar. Caso queira me contratar para fazer seu site pode me mandar uma mensagem que a gente conversa.
+Página feita em html e css me apresentando. Caso queira me contratar para fazer seu site pode me mandar uma mensagem que a gente conversa.
 
 Prévia do site
 
