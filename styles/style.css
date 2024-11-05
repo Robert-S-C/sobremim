@@ -32,8 +32,16 @@ justify-content: space-between;
 .aprconteudo {
     display:flex;
     flex-direction: column;
-    width: 615px;
-    gap: 20px;
+    gap: 15px;
+}
+.aprconteudoa {
+    display:flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.codigo {
+    margin-left: 35%;
+    margin-right: 50%;
 }
 .att {
    font-size: 36px;
@@ -44,6 +52,8 @@ justify-content: space-between;
     font-size: 24px;
     text-align: center;
     font-family:var(--fonte-secundaria);
+    margin-left: 25%;
+    margin-right: 25%;
 }
 div {
     gap: 28px;
@@ -96,6 +106,10 @@ div {
     display: flex;
     gap: 30px;
 }
+.cabnavea {
+    display: flex;
+    gap: 30px;
+}
 .cabecalio__link {
     font-family:var(--fonte-secundaria);
     font-size: 18px;
@@ -127,4 +141,59 @@ div {
 }
 .cabecalio__link:hover {
     color:var(--cor-secundaria);
+}
+@media screen and (max-width: 600px) {
+    
+    head {
+        margin: auto;
+    }
+    .rodape {
+        margin: auto;
+        text-align: center;
+    }
+    p {
+        margin: auto;
+    }
+    main {
+    display: block;
+    background-image: none;
+    margin:0;
+    width: 0;
+    padding: 0;
+    gap: 0;
+}
+.codigo {
+    width: 50vw;
+    height: 80vw;
+    margin: auto;  
+}
+.apresentacaoa {
+    margin-left: 20%;
+}
+.cabnave {
+    align-items: center;
+    text-align: center;
+}
+.cabnavea {
+    align-items: center;
+    text-align: center;
+}
+.app {
+    margin: 0%;
+}
+.eu {
+    display:none
+}
+.aprconteudo {
+    margin-left: 10vw;
+    text-align: center;
+    border: 0;
+
+}
+.aprconteudoa {
+    margin: 0;
+    text-align: center;
+    border: 0;
+
+}
 }
