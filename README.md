@@ -1,5 +1,11 @@
 Página feita em html e css me apresentando. Caso queira me contratar para fazer seu site pode me mandar uma mensagem que a gente conversa.
 
+Técnologias Usadas: 
+<div>
+<img src="https://img.shields.io/badge/HTML-brightgreen?style=plastic&labelColor=green&color=%23ffffff&link=https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://img.shields.io/badge/CSS-DeepSkyBlue?style=plastic&labelColor=%2300BFFF&color=%23ffff&link=https://developer.mozilla.org/en-US/docs/Web/CSS">
+</div>
+
 Prévia do site
 
 Home: ![Home](https://github.com/Robert-S-C/sobremim/blob/main/previa/inicio.png)
