@@ -2,8 +2,15 @@ Página feita para me apresentar. Caso queira me contratar para fazer seu site p
 
 Técnologias Usadas: 
 <div>
-<img src="https://img.shields.io/badge/HTML-brightgreen?style=plastic&labelColor=green&color=%23ffffff">
-<img src="https://img.shields.io/badge/CSS-DeepSkyBlue?style=plastic&labelColor=%2300BFFF&color=%23ffff">
+  <p><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
+    <img src="https://img.shields.io/badge/HTML-brightgreen?style=plastic&labelColor=green&color=%23ffffff" hspace="10">
+  </a>
+  </p>
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
+<img src="https://img.shields.io/badge/CSS-DeepSkyBlue?style=plastic&labelColor=%2300BFFF&color=%23ffff" hspace="10">
+  </a>
+</p>
 </div>
 
 <h3></h3>Prévia do site:</h3>
@@ -15,4 +22,4 @@ Técnologias Usadas:
 <p>SOBRE MIM:</p>
 <img src="https://github.com/Robert-S-C/sobremim/blob/main/previa/about.png" alt="SOBRE MIM" width="650" alt="520">
 
-Site: https://sobremim-hazel.vercel.app/
+Para visualizar o site, Clique "[Aqui](https://sobremim-hazel.vercel.app/ "Sobre Mim")".
