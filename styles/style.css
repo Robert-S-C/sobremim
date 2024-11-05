@@ -31,8 +31,13 @@ justify-content: space-between;
 }
 .aprconteudo {
     display:flex;
-    flex-direction: column;
+    flex-direction:column;
     gap: 15px;
+}
+.apc {
+    display:block;
+    justify-content: center;
+   
 }
 .aprconteudoa {
     display:flex;
@@ -40,7 +45,7 @@ justify-content: space-between;
     gap: 15px;
 }
 .codigo {
-    margin-left: 27%;
+    margin-left: 25vw;
 }
 .att {
    font-size: 36px;
