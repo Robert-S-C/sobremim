@@ -1,16 +1,18 @@
-Página feita em html e css me apresentando. Caso queira me contratar para fazer seu site pode me mandar uma mensagem que a gente conversa.
+Página feita para me apresentar. Caso queira me contratar para fazer seu site pode me mandar uma mensagem que a gente conversa.
 
 Técnologias Usadas: 
 <div>
-<img src="https://img.shields.io/badge/HTML-brightgreen?style=plastic&labelColor=green&color=%23ffffff&link=https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://img.shields.io/badge/CSS-DeepSkyBlue?style=plastic&labelColor=%2300BFFF&color=%23ffff&link=https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://img.shields.io/badge/HTML-brightgreen?style=plastic&labelColor=green&color=%23ffffff">
+<img src="https://img.shields.io/badge/CSS-DeepSkyBlue?style=plastic&labelColor=%2300BFFF&color=%23ffff">
 </div>
 
-Prévia do site
+<h3></h3>Prévia do site:</h3>
 
-Home: ![Home](https://github.com/Robert-S-C/sobremim/blob/main/previa/inicio.png)
+<p></p>
 
-About: ![Sobre Mim](https://github.com/Robert-S-C/sobremim/blob/main/previa/about.png)
+<p>HOME:</p>
+<img src="https://github.com/Robert-S-C/sobremim/blob/main/previa/inicio.png" alt="HOME" width="650" alt="520">
+<p>SOBRE MIM:</p>
+<img src="https://github.com/Robert-S-C/sobremim/blob/main/previa/about.png" alt="SOBRE MIM" width="650" alt="520">
 
-OBS¹: a foto é 70% eu: coloquei em uma ai de geração de imagem utilizando a minha foto de base e pedindo a ela para me transformar em desenho realista. ai saiu isso kkkk.
-OBS²: Meu olho é castanho e não esse azul esverdeado ai. A ai que colocou e eu deixei.
+Site: https://sobremim-hazel.vercel.app/
